@@ -1,0 +1,11 @@
+html - hypertext makrup language
+- mark- tags and annotations - browser
+<vikas>
+
+hypertext- 
+
+html - head and body
+
+textual data 
+p heading 
+

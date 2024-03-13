@@ -1,0 +1,7 @@
+Date 9th march , 2024
+
+Last class - basics html, meta tag, semantics , textual data - para, heading , img , anchor tag , block and inline 
+
+List - grocery list - ordered list, unordered , descriptive list
+
+<ol>/</ol>
